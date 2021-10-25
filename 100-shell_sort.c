@@ -29,6 +29,6 @@ in = in - h;
 array[in] = tmp;
 }
 h = (h - 1) / 3;
-print_array(array, size)
+print_array(array, size);
 }
 }
