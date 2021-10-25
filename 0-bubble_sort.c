@@ -31,7 +31,7 @@ return;
 while (bubbly == false)
 {
 
-bubbly = true
+bubbly = true;
 for (i = 0; i < len - 1; i++)
 {
 if (array[i] > array[i + 1])
