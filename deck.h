@@ -45,4 +45,4 @@ struct deck_node_s *next;
 
 void sort_deck(deck_node_t **deck);
 
-#endif /* _DECK_H_ */x
+#endif /* _DECK_H_ */
